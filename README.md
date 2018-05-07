@@ -2,4 +2,4 @@
 My first Git repo
 Git is a distributed version control system.
 Gita is my name.
-Making MORE changes.
+Mking more changes to exercise CLI commands
